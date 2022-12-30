@@ -7451,7 +7451,7 @@
     (property "Reference" "R41" (id 0) (at 331.978 68.6816 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "dnp" (id 1) (at 331.978 70.993 0)
+    (property "Value" "0R" (id 1) (at 331.978 70.993 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 328.422 69.85 90)
@@ -8247,7 +8247,7 @@
       (reference "R40") (unit 1) (value "dnp") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/372ca174-dd9f-4c57-bc55-279c6f8b4e3a"
-      (reference "R41") (unit 1) (value "dnp") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R41") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/6f7d2e2d-ab5c-405a-a7ee-a3211d67f7b6"
       (reference "R42") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")

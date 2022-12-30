@@ -4251,7 +4251,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 2d74945c-468c-49e2-aed8-a0e48344a56f)
     )
-    (fp_text value "dnp" (at 0 -1.43) (layer "B.Fab")
+    (fp_text value "0R" (at 0 -1.43) (layer "B.Fab")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 734f7102-c7de-448e-8978-49d4429c3206)
     )
